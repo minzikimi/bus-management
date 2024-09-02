@@ -1,0 +1,15 @@
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.csproj.AssemblyReference.cache
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.AssemblyInfoInputs.cache
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.AssemblyInfo.cs
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.csproj.CoreCompileInputs.cache
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\bin\Debug\net6.0\Bus Project.exe
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\bin\Debug\net6.0\Bus Project.deps.json
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\bin\Debug\net6.0\Bus Project.runtimeconfig.json
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\bin\Debug\net6.0\Bus Project.dll
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\bin\Debug\net6.0\Bus Project.pdb
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.dll
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\refint\Bus Project.dll
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.pdb
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\Bus Project.genruntimeconfig.cache
+C:\Users\Minji\OneDrive\바탕 화면\Programmering 1\Bus Project\obj\Debug\net6.0\ref\Bus Project.dll
