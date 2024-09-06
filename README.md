@@ -1,1 +1,1 @@
-# Bus-project
+Bus ticket management system operated in c#
